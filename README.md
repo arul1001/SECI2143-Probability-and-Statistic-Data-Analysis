@@ -1,7 +1,7 @@
 # SECI2143-Probability and Statistic Data Analysis
 
-## Course Summary:
+### Course Summary:
 
 
-## Chapter List:
+### Chapter List:
 
