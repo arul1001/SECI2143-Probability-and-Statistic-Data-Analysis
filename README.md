@@ -29,12 +29,11 @@ be able to apply some statistical models in analysing data using available softw
 
 ### My Reflection for SECI2143 Probability and Statistic Data Analysis
 
-<p align="justify"> This course introduced me to essential statistical techniques for analyzing real-world data, starting with types of data and visual representation, and progressing to parameter estimation and hypothesis testing. I learned how to apply both descriptive and inferential statistical analysis to uncover patterns and make informed conclusions.
+<p align="justify"> This course introduced me to essential statistical techniques for analyzing real-world data, starting with types of data and visual representation, and progressing to parameter estimation and hypothesis testing. I learned how to apply both descriptive and inferential statistical analysis to uncover patterns and make informed conclusions.</p>
 
-We completed two major projects that gave me practical experience. In Project 1, I conducted a real survey and used descriptive statistics to analyze the data. In Project 2, I applied inferential techniques such as hypothesis testing to draw deeper insights. Both projects required me to use R programming, which was a new but valuable tool for statistical analysis. Learning R was challenging at first, but it helped me understand how to process and interpret data more effectively using real coding.
+<p align="justify"> We completed two major projects that gave me practical experience. In Project 1, I conducted a real survey and used descriptive statistics to analyze the data. In Project 2, I applied inferential techniques such as hypothesis testing to draw deeper insights. Both projects required me to use R programming, which was a new but valuable tool for statistical analysis. Learning R was challenging at first, but it helped me understand how to process and interpret data more effectively using real coding.</p>
 
-I found this course both interesting and challenging, and it has strengthened my analytical thinking while giving me hands-on experience with statistical tools used in professional data analysis.
-   </p>
+<p align="justify"> I found this course both interesting and challenging, and it has strengthened my analytical thinking while giving me hands-on experience with statistical tools used in professional data analysis.</p>
 
 
 
